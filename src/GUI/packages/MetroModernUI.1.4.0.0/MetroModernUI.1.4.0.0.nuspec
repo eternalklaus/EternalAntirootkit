@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MetroModernUI</id>
+    <version>1.4.0.0</version>
+    <title>Metro Modern UI - Metro Framework</title>
+    <authors>Dennis Magno</authors>
+    <owners>Dennis Magno</owners>
+    <projectUrl>http://denricdenise.info/</projectUrl>
+    <iconUrl>http://i.imgur.com/178ZNMB.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Metro Modern UI or MetroFramework brings Windows 8 UI to .NET Windows Forms applications.
+
+Supported platforms:
+
+Windows XP SP1/SP2/SP3
+
+Windows Vista
+
+Windows 7
+
+Windows 8
+
+Windows 10</description>
+    <summary />
+    <releaseNotes>1. Added MetroListView
+http://denricdenise.info/2016/01/metrolistview-is-coming-in-metroframework/
+2. Add localization for MetroMessageBox and MetroToggle button
+http://denricdenise.info/2016/06/metromessagebox-localized-preview/</releaseNotes>
+    <copyright>Copyright (c) 2014 Dennis Magno</copyright>
+    <language>en-US</language>
+    <tags>metroframework modernui modern ui metro metroui winforms windows8</tags>
+  </metadata>
+</package>

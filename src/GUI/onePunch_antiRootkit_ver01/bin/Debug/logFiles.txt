@@ -1,0 +1,16 @@
+printf(" C:\\User\\eternalklaus\\Desktop>DKOM_REVEALER.exe\n");
+printf(" loading DKOM_REVEALER.sys...\n");
+printf(" Service started successfully\n");
+printf(" Driver installed successfully\n");
+printf(" pid[0524]=dse.exe\n");
+printf(" Sending process info to device driver...\n");
+printf(" pid[0596]=f-secure blacklight.exe\n");
+printf(" Sending process info to device driver...\n");
+printf(" pid[1200]=aswmbr.exe\n");
+printf(" Sending process info to device driver...\n");
+printf(" pid[1944]=DataExchangeHost.exe\n");
+printf(" Sending process info to device driver...\n");
+printf(" pid[2112]=ShellExperienceHost.exe\n");
+printf(" Sending process info to device driver...\n");
+printf(" pid[2460]=TDSSKiller.exe\n");
+printf(" Sending process info to device driver...\n");

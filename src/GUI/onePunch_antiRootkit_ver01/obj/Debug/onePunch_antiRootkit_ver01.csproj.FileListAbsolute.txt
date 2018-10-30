@@ -1,0 +1,12 @@
+c:\users\potte\documents\visual studio 2013\Projects\onePunch_antiRootkit_ver01\onePunch_antiRootkit_ver01\bin\Debug\onePunch_antiRootkit_ver01.exe.config
+c:\users\potte\documents\visual studio 2013\Projects\onePunch_antiRootkit_ver01\onePunch_antiRootkit_ver01\bin\Debug\onePunch_antiRootkit_ver01.exe
+c:\users\potte\documents\visual studio 2013\Projects\onePunch_antiRootkit_ver01\onePunch_antiRootkit_ver01\bin\Debug\onePunch_antiRootkit_ver01.pdb
+c:\users\potte\documents\visual studio 2013\Projects\onePunch_antiRootkit_ver01\onePunch_antiRootkit_ver01\bin\Debug\MetroFramework.Design.dll
+c:\users\potte\documents\visual studio 2013\Projects\onePunch_antiRootkit_ver01\onePunch_antiRootkit_ver01\bin\Debug\MetroFramework.dll
+c:\users\potte\documents\visual studio 2013\Projects\onePunch_antiRootkit_ver01\onePunch_antiRootkit_ver01\bin\Debug\MetroFramework.Fonts.dll
+c:\users\potte\documents\visual studio 2013\Projects\onePunch_antiRootkit_ver01\onePunch_antiRootkit_ver01\obj\Debug\onePunch_antiRootkit_ver01.ClientForm01.resources
+c:\users\potte\documents\visual studio 2013\Projects\onePunch_antiRootkit_ver01\onePunch_antiRootkit_ver01\obj\Debug\onePunch_antiRootkit_ver01.Properties.Resources.resources
+c:\users\potte\documents\visual studio 2013\Projects\onePunch_antiRootkit_ver01\onePunch_antiRootkit_ver01\obj\Debug\onePunch_antiRootkit_ver01.csproj.GenerateResource.Cache
+c:\users\potte\documents\visual studio 2013\Projects\onePunch_antiRootkit_ver01\onePunch_antiRootkit_ver01\obj\Debug\onePunch_antiRootkit_ver01.exe
+c:\users\potte\documents\visual studio 2013\Projects\onePunch_antiRootkit_ver01\onePunch_antiRootkit_ver01\obj\Debug\onePunch_antiRootkit_ver01.pdb
+c:\users\potte\documents\visual studio 2013\Projects\onePunch_antiRootkit_ver01\onePunch_antiRootkit_ver01\obj\Debug\onePunch_antiRootkit_ver01.LogForm.resources

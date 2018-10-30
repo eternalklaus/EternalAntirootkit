@@ -1,0 +1,6 @@
+0280|SearchFilterHost.exe|Dangerous
+0332|conhost.exe|Dangerous
+0884|Microsoft.VsHub.Server.HttpHost.exe|Dangerous
+2092|Calculator.exe|Fine
+2404|MSBuild.exe|Fine
+2436|taskhostw.exe|Dangerous
