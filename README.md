@@ -13,7 +13,7 @@ Windows 10에서 동작하는 안티루트킷입니다.
 
 시나리오 기반의 시연 영상은 다음과 같습니다.  
 - Victim : https://www.youtube.com/watch?v=xHgu3nEJKrY 감염 후 우리의 안티루트킷으로 치료
-- Attacker : https://www.youtube.com/watch?v=0rGmw8LGY6E 공격, 데이터 탈취, 희생자의 루트킷 치료로 
+- Attacker : https://www.youtube.com/watch?v=0rGmw8LGY6E 공격, 데이터 탈취, 치료로인해 세션끊김 
 
 
 ### Eng.
