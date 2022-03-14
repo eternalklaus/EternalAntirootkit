@@ -7,7 +7,7 @@ EternalAntirootkit is a Windows anti-rootkit that improves detecting kernel base
 # Installation
 `onePunch_antiRootkit.exe`: Click the right mouse button and select "Run as administrator".
 
-EternalAntirootkit currently works on only Windows and we tested on Windows 10 and it's standalone software that does not need installation. This program consists of 2 component, Windows system driver ([.sys](https://github.com/eternalklaus/EternalAntirootkit/blob/master/src/Device-driver/Eternal-Antirootkit.c)), and Driver loader ([.exe](https://github.com/eternalklaus/EternalAntirootkit/blob/master/src/GUI/DKOM_Loader.cpp)). `onePunch_antiRootkit.exe` loads system driver and scan rootkit. 
+EternalAntirootkit currently works on only Windows and we tested on Windows 10. As a standalone software you do not need to install it. This program consists of 2 component, Windows system driver ([.sys](https://github.com/eternalklaus/EternalAntirootkit/blob/master/src/Device-driver/Eternal-Antirootkit.c)), and Driver loader ([.exe](https://github.com/eternalklaus/EternalAntirootkit/blob/master/src/GUI/DKOM_Loader.cpp)). `onePunch_antiRootkit.exe` loads system driver and scan rootkit. 
 
 # Demo Video
 Senario based demo video. 
