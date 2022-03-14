@@ -1,21 +1,16 @@
+<img src="./img/logo.png" width="320">
+
 # Eternal-Antirootkit
-### Korean  
-Windows 10에서 동작하는 안티루트킷입니다.  
-프로그램은 2개의 모듈로 구성되어 있습니다. 
-- 시스템 드라이버
-- 실행 프로그램
-
-실행 프로그램을 실행하면 우리의 시스템 드라이버가 로드되며 루트킷 검사를 시작합니다.  
-시스템의 Active process links를 순회하며 Hidden process를 검사하기 시작합니다.  
-이때, 우리의 독자적인 PIDB(process id bruteforce) 기술을 사용하여 커널레벨 루트킷을 탐지합니다.  
-  
-따라서 우리의 안티루트킷은 DKOM으로 숨겨진 루트킷 뿐 아니라,  
-Advanced-DKOM 으로 숨겨진 루트킷 또한 효과적으로 탐지합니다.   
-
-시나리오 기반의 시연 영상은 다음과 같습니다.  
-- Victim : https://www.youtube.com/watch?v=xHgu3nEJKrY 감염 후 우리의 안티루트킷으로 치료
-- Attacker : https://www.youtube.com/watch?v=0rGmw8LGY6E 공격, 데이터 탈취, 치료로인해 세션끊김 
+EternalAntirootkit is a Windows anti-rootkit that improves detecting kernel based rootkit process hiding its existance by novel PIDB(Process ID Bruteforce) The details of the algorithm is in our paper, ["study on Detection Method and Development of the Kernel Mode Rootkit"](https://www.koreascience.or.kr/article/CFKO201629368414238.pdf) and ["Dual-Mode Kernel Rootkit Scan and Recovery with Process ID Brute-Force"](https://www.researchgate.net/publication/316995246_Dual-Mode_Kernel_Rootkit_Scan_and_Recovery_with_Process_ID_Brute-Force). This is a stable version of EternalAntirootkit and it currently runs on Windows 10.
 
 
-### Eng.
-TODO : English description 
+# Installation
+`onePunch_antiRootkit.exe`: Click the right mouse button and select "Run as administrator".
+
+EternalAntirootkit currently works on only Windows and we tested on Windows 10 and it's standalone software that does not need installation. This program consists of 2 component, Windows system driver ([.sys](https://github.com/eternalklaus/EternalAntirootkit/blob/master/src/Device-driver/Eternal-Antirootkit.c)), and Driver loader ([.exe](https://github.com/eternalklaus/EternalAntirootkit/blob/master/src/GUI/DKOM_Loader.cpp)). `onePunch_antiRootkit.exe` loads system driver and scan rootkit. 
+
+# Demo Video
+Senario based demo video. 
+- Victim :  Infected by rootkit malware and be stolen some data, but remove malware by running `EternalAntiRootkit`. [[Demo]](https://www.youtube.com/watch?v=xHgu3nEJKrY)
+- Attacker : After implanting rootkit to victim and steals data, detected by our `EternalAntirootkit`. [[Demo]](https://www.youtube.com/watch?v=0rGmw8LGY6E)
+
