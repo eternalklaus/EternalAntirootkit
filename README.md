@@ -1,7 +1,7 @@
 <img src="./img/logo.png" width="320">
 
 # Eternal-Antirootkit
-EternalAntirootkit is a Windows anti-rootkit that improves detecting kernel based rootkit process hiding its existance by novel PIDB(Process ID Bruteforce) The details of the algorithm is in our paper, ["study on Detection Method and Development of the Kernel Mode Rootkit"](https://www.koreascience.or.kr/article/CFKO201629368414238.pdf) and ["Dual-Mode Kernel Rootkit Scan and Recovery with Process ID Brute-Force"](https://www.researchgate.net/publication/316995246_Dual-Mode_Kernel_Rootkit_Scan_and_Recovery_with_Process_ID_Brute-Force). This is a stable version of EternalAntirootkit and it currently runs on Windows 10.
+EternalAntirootkit is a Windows anti-rootkit that improves detecting kernel based rootkit process hiding its existance by novel PIDB(Process ID Bruteforce). The details of the algorithm is in our paper, ["study on Detection Method and Development of the Kernel Mode Rootkit"](https://www.koreascience.or.kr/article/CFKO201629368414238.pdf) and ["Dual-Mode Kernel Rootkit Scan and Recovery with Process ID Brute-Force"](https://www.researchgate.net/publication/316995246_Dual-Mode_Kernel_Rootkit_Scan_and_Recovery_with_Process_ID_Brute-Force). This is a stable version of EternalAntirootkit and it currently runs on Windows 10.
 
 
 # Installation
